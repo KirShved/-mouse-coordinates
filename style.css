@@ -1,0 +1,9 @@
+.conteiner {
+}
+.block {
+    margin: 30px;
+    background-color: rgb(153, 189, 189);
+    border-radius: 10px;
+    height: 500px;
+    padding: 10px;
+}
